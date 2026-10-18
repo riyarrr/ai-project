@@ -437,7 +437,7 @@ with st.sidebar:
     st.markdown(
         """
         <div style="font-size: 0.82rem; color: #475569; margin-top: 1.5rem; border-top: 1px solid #e2e8f0; padding-top: 1rem;">
-            <div>Made with ❤️ by <strong>Chekuri Viroopaksh</strong></div>
+            <div>Developed by<strong>Riya, Manjima Ranjith, and Vidhi Mehta.</strong></div>
             <div style="margin-top: 0.4rem; display: flex; gap: 0.8rem; font-size: 0.8rem;">
                 <a href="https://linkedin.com" target="_blank" style="color: #2563eb; text-decoration: underline;">LinkedIn</a>
                 <a href="https://github.com" target="_blank" style="color: #2563eb; text-decoration: underline;">GitHub</a>
