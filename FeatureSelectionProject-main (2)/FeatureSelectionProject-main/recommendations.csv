@@ -1,0 +1,3 @@
+Dataset,Recommended Method,Best Predictive Method(s),Accuracy,MCC,Total Features,Selected Features,Feature Reduction (%),Runtime (s),Reason
+Colon Cancer,Hybrid,Hybrid,0.9231,0.8433,2000,4,99.8,2.5485,"Accuracy/MCC Pareto methods: Hybrid. Among them, Hybrid retains the fewest features (4/2000; 99.80% reduction); runtime (2.5485 s) breaks any remaining feature-count tie."
+Leukemia,Hybrid,"CFS, Hybrid",1.0,1.0,7128,3,99.9579,6.4082,"Accuracy/MCC Pareto methods: CFS, Hybrid. Among them, Hybrid retains the fewest features (3/7128; 99.96% reduction); runtime (6.4082 s) breaks any remaining feature-count tie."

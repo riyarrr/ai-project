@@ -1,0 +1,13 @@
+Dataset,Method,Total Features,Selected Features,Accuracy,MCC,Feature Reduction (%),Runtime (s),Selected Feature Names
+Colon Cancer,CFS,2000,5,0.8462,0.6928,99.75,2.0063,"493, 627, 377, 1679, 792"
+Colon Cancer,FCBF,2000,1,0.6923,0.3651,99.95,9.9072,1400
+Colon Cancer,FAST,2000,1,0.6923,0.3651,99.95,11.453,1
+Colon Cancer,GA,2000,12,0.6923,0.3175,99.4,2.244,"62, 181, 607, 695, 873, 1103, 1115, 1126, 1204, 1263, 1586, 1966"
+Colon Cancer,PSO,2000,2,0.6923,0.35,99.9,0.9954,"99, 709"
+Colon Cancer,Hybrid,2000,4,0.9231,0.8433,99.8,2.5485,"625, 513, 493, 377"
+Leukemia,CFS,7128,5,1.0,1.0,99.9299,10.1416,"gene_1834, gene_6854, gene_6539, gene_1882, gene_3847"
+Leukemia,FCBF,7128,1,0.8667,0.7071,99.986,34.5473,gene_1834
+Leukemia,FAST,7128,1,0.8667,0.7071,99.986,22.3315,gene_1834
+Leukemia,GA,7128,20,0.8667,0.7,99.7194,23.8669,"gene_116, gene_751, gene_1203, gene_1315, gene_1684, gene_2244, gene_2402, gene_2492, gene_3611, gene_3947, gene_4009, gene_4444, gene_4480, gene_4594, gene_4609, gene_4806, gene_5719, gene_6259, gene_6929, gene_6943"
+Leukemia,PSO,7128,13,0.9333,0.866,99.8176,23.2512,"gene_573, gene_1768, gene_2318, gene_2388, gene_2498, gene_2728, gene_3077, gene_4167, gene_4314, gene_4438, gene_5434, gene_6240, gene_6623"
+Leukemia,Hybrid,7128,3,1.0,1.0,99.9579,6.4082,"gene_1834, gene_6854, gene_6041"

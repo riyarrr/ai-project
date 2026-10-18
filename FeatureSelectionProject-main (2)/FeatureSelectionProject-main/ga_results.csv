@@ -1,0 +1,3 @@
+Dataset,Method,Total Features,Selected Features,Accuracy,MCC,Runtime (s),Selected Feature Names
+Colon Cancer,GA,2000,12,0.6923,0.3175,2.244,"62, 181, 607, 695, 873, 1103, 1115, 1126, 1204, 1263, 1586, 1966"
+Leukemia,GA,7128,20,0.8667,0.7,23.8669,"gene_116, gene_751, gene_1203, gene_1315, gene_1684, gene_2244, gene_2402, gene_2492, gene_3611, gene_3947, gene_4009, gene_4444, gene_4480, gene_4594, gene_4609, gene_4806, gene_5719, gene_6259, gene_6929, gene_6943"
